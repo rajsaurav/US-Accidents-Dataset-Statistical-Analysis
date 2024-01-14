@@ -31,8 +31,15 @@ Plot for accidents happening every day
 
 ![Number of Accidents occuring happening every day](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/294287d5-0a7c-4234-baad-bdaa891cc509)
 
+Geo distribution of accidents throughout US
 
+![Geo plot for number of accidents throughout US](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/53c982aa-94af-42e9-9e03-c1e8dae182f0)
 
-
-
-
+## Conclusion
+No data from New York 
+Less than 5% of the cities have more than 1000 yearly accidents 
+Most Accidents happen between 5am - 10am(In a hurry to get to work)
+Most accidents happen between 3pm - 6pm (People going back to work) 
+On Sundays most accident happen in the afternoon 11am to 6 pm unlike weekdays 
+Most accidents happen in the month of January, then it decreses gradually and stays almost the same and then picks up towards the end of the year. 
+The rate of distribution of accident remains the same in a year throughout different years
