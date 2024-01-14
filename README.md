@@ -31,7 +31,7 @@ Plot for accidents happening every day
 
 ![Number of Accidents occuring happening every day](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/294287d5-0a7c-4234-baad-bdaa891cc509)
 
-Geo distribution of accidents throughout US
+Geographical distribution of accidents throughout US
 
 ![Geo plot for number of accidents throughout US](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/53c982aa-94af-42e9-9e03-c1e8dae182f0)
 
