@@ -17,6 +17,9 @@ This dataset has been collected in real-time, using multiple Traffic APIs. Curre
 
 US-Accidents can be used for numerous applications such as real-time accident prediction, studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, or studying the impact of precipitation or other environmental stimuli on accident occurrence.
 
+## Data Visualisations
+
+![Alt Text](https://www.flickr.com/photos/199907964@N06/53464109355/in/dateposted-public/)
 
 
 
