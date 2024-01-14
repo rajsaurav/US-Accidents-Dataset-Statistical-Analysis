@@ -19,7 +19,7 @@ US-Accidents can be used for numerous applications such as real-time accident pr
 
 ## Data Visualisations
 
-![Alt Text](https://www.flickr.com/photos/199907964@N06/53464109355/in/dateposted-public/)
+[Alt Text](https://www.flickr.com/photos/199907964@N06/53464109355/in/dateposted-public/)
 
 
 
