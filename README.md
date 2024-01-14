@@ -19,7 +19,14 @@ US-Accidents can be used for numerous applications such as real-time accident pr
 
 ## Data Visualisations
 
-[Alt Text](https://www.flickr.com/photos/199907964@N06/53464109355/in/dateposted-public/)
+[Top 20 cities by accident](https://www.flickr.com/photos/199907964@N06/53464109355/in/dateposted-public/)
+[Graph for number accidents occuring every hour](https://www.flickr.com/photos/199907964@N06/53464144440/in/dateposted-public/)
+[Graph for number accidents occuring every day of the week](https://www.flickr.com/photos/199907964@N06/53464166845/in/dateposted-public/)
+
+
+![Number of Accidents occuring happening every day](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/5fbfc26a-d5df-41b5-b4e1-82d5d9c5a86a)
+
+
 
 
 
