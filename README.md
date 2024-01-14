@@ -37,10 +37,10 @@ Geo distribution of accidents throughout US
 
 ## Conclusion
 
--No data from New York. 
--Less than 5% of the cities have more than 1000 yearly accidents 
--Most Accidents happen between 5am - 10am(In a hurry to get to work)
--Most accidents happen between 3pm - 6pm (People going back to work) 
--On Sundays most accident happen in the afternoon 11am to 6 pm unlike weekdays 
--Most accidents happen in the month of January, then it decreses gradually and stays almost the same and then picks up towards the end of the year. 
--The rate of distribution of accident remains the same in a year throughout different years
+- No data from New York. 
+- Less than 5% of the cities have more than 1000 yearly accidents 
+- Most Accidents happen between 5am - 10am(In a hurry to get to work)
+- Most accidents happen between 3pm - 6pm (People going back to work) 
+- On Sundays most accident happen in the afternoon 11am to 6 pm unlike weekdays 
+- Most accidents happen in the month of January, then it decreses gradually and stays almost the same and then picks up towards the end of the year. 
+- The rate of distribution of accident remains the same in a year throughout different years
