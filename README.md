@@ -11,7 +11,7 @@ US-Accidents: A Countrywide Traffic Accident Dataset
 
 ## Content
 
-This dataset has been collected in real-time, using multiple Traffic APIs. Currently, it contains accident data that are collected from February 2016 to March 2023 for the Contiguous United States. Check [here](https://smoosavi.org/datasets/us_accidents) to learn more about this dataset.
+This dataset has been collected in real-time, using multiple Traffic APIs. Currently, it contains accident data that are collected from February 2016 to March 2023 for the United States. Check [here](https://smoosavi.org/datasets/us_accidents) to learn more about this dataset.
 
 ## Applications of Dataset
 
