@@ -23,11 +23,11 @@ Top 20 cities with the most number of accidents
 
 ![Top 20 cities by accident](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/5d12d6cb-db00-4869-bea5-7eb94c82bc70)
 
-Plot for accidents occuring every hour each day
+Plot for accidents occuring hour-wise per day
 
 ![Plot for accidents happening each hour](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/6576e7ee-8f77-424f-a303-cbb01619f96b)
 
-Plot for accidents happening every day
+Plot for accidents happening day-wise in a week
 
 ![Number of Accidents occuring happening every day](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/294287d5-0a7c-4234-baad-bdaa891cc509)
 
