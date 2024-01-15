@@ -19,7 +19,7 @@ US-Accidents can be used for numerous applications such as real-time accident pr
 
 ## Data Visualisations
 
-Top 20 cities with highest number of accidents
+Top 20 cities with the most number of accidents
 
 ![Top 20 cities by accident](https://github.com/rajsaurav/US-Accidents-Dataset-Statistical-Analysis/assets/35574674/5d12d6cb-db00-4869-bea5-7eb94c82bc70)
 
